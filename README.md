@@ -248,7 +248,7 @@ The size of the part: The size of the part will also affect the cooling process.
 The desired properties: The desired properties of the part will also affect the cooling process. For example, if the part needs to be strong and tough, it should be cooled slowly. If the part needs to be ductile, it can be cooled more quickly.
 ## Output:
 ### Name: K.Madhava Reddy
-### Register Number: 23009929
+### Register Number: 212223240064
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
